@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m Mario Ferrera, also known by my alias Aedrus.
+- 👋 Hi there! I’m Mario Ferrera, also known by my alias Aedrus (pronounced ay-druh-s).
 
 - 👀 I'm a Front-End Developer/Designer working to build clean and optimized websites centered around an exceptionally beneficial user experience. Some of my passions are metal music, calisthenics, gaming, and creative writing. In many ways I am guided by passions and my innate desire for knowledge. I also enjoy long walks both on and off the beach.
 
