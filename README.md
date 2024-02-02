@@ -1,7 +1,7 @@
-- 👋 Hi there! I’m Mario Ferrera, also known by my alias Aedrus (pronounced ay-druh-s).
+# 👋 Hi there! I’m Mario Ferrera.
 
-- 👀 I'm a Software Developer/Designer building clean and scalable websites centered around an exceptionally beneficial user experience. I have experience with the web trifecta (HTML, CSS, and JavaScript), the MERN Stack, and a whole load of computer science theories and programming principles. If I had to distill my personality and strengths into one sentence it would be the following: I like to solve problems using my curiosity and love for technology.
+- 🛣️ My development journey took root back in high school where I created my first website in a basic web design elective. Fast forward many years later and now I work with all kinds of technologies, concepts, and tools to build software with a purpose; all while enjoying the thrill of tackling whatever computer science throws at me.
 
-- 🌱 I’m currently learning software architecture methodologies, Rust, clean code best practices, and a little bit of clean database management with SQL. Some of my other passions include music, fitness, gaming, and creative writing.
+- 🌱 I’m currently on the lookout for full stack or backend development roles where I can exercise my aptitude for logical problem solving. I'd especially love to work on a team where I can make a strong impact on the development, design, and testing of great software — ideally using the MERN stack or Python. If you're hiring, I'd love to have a chat!
 
 Thanks for stopping by and take care out there!
